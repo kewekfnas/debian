@@ -14,17 +14,15 @@ echo -e "* Fawzya" | lolcat
 echo -e ""
 echo -e "Mod by Rizwan Arif Firmansyah" | lolcat
 echo -e ""
-echo -e "   ██   ██  █████  ██████   █████  ██  " | lolcat
-echo -e "   ██  ██  ██   ██ ██   ██ ██   ██ ██          " | lolcat
-echo -e "   █████   ███████ ██   ██ ███████ ██           " | lolcat
-echo -e "   ██  ██   ██   ██ ██   ██ ██   ██ ██   " | lolcat
-echo -e "   ██   ██ ██   ██ ██████  ██   ██ ███████     " | lolcat
+echo -e "   ───█▒▒░░░░░░░░░▒▒█───  " | lolcat
+echo -e "   ────█░░█░░░░░█░░█────          " | lolcat
+echo -e "   ─▄▄──█░░░▀█▀░░░█──▄▄─           " | lolcat
+echo -e "   █░░█─▀▄░░░░░░░▄▀─█░░█   " | lolcat
+echo -e "   █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█     " | lolcat
+echo -e ""  █░░║║║╠─║─║─║║║║║╠─░░█     "  |  lolcat
+echo -e "   █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ " | lolcat
+echo -e "   █---------------------JsT x SWJR HUNTERS------------------█  " | lolcat
+echo -e "   █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█   " | lolcat
+echo -e "                                      JST FREENET | lolcat
 echo -e ""
-echo -e " ███████  █████  ███    ███ ██ ██   ██    ██ " | lolcat
-echo -e " ██      ██   ██ ████  ████ ██ ██    ██  ██  " | lolcat
-echo -e " █████   ███████ ██ ████ ██ ██ ██     ████   " | lolcat
-echo -e " ██      ██   ██ ██  ██  ██ ██ ██      ██    " | lolcat
-echo -e " ██      ██   ██ ██      ██ ██ ███████ ██    " | lolcat
-echo -e "                                      The Big Kadall Family Grup™" | lolcat
-echo -e ""
-echo -e " No Wa 083145968517" | lolcat
+echo -e " Join Telegram : @JSTFREENET" | lolcat
