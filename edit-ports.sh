@@ -1,5 +1,5 @@
 #!/bin/bash
-# Mod by Rizwan Arif Firmansyah
+# Mod by Zuan We Lose
 clear
 echo -e "\e[0m                                                   "
 echo -e "\e[94m[][][]======================================[][][]"
