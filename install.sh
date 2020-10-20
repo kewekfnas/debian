@@ -13,12 +13,12 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 
 # company name details
 country=ID
-state=KadallFamily
-locality=KadallFamily
-organization=KadallFamily
-organizationalunit=KadallFamily
-commonname=TheBigKadallFamily
-email=acill.sadank@gmail.com
+state=JATENG
+locality=GROBOGAN
+organization=ZUANWELOSE
+organizationalunit=JSTHUNTER
+commonname=JSTFREENET
+email=zuan@gmail.com
 
 # configure rc.local
 cat <<EOF >/etc/rc.local
