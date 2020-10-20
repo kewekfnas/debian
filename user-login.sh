@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Script Copyright www.fornesia.com
-# Mod by Rizwan Arif Firmansyah
+# Mod by Zuan We Lose
 # ==========================
 # 
 
@@ -50,6 +50,6 @@ echo "------------------------------------------------" | lolcat
 
 echo "";
 
-echo "Mod by Rizwan Arif Firmansyah" | lolcat;
+echo "Mod by Zuan We Lose" | lolcat;
 
 echo "";
