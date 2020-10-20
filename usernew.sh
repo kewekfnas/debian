@@ -16,7 +16,7 @@ echo -e "Username: $Login " | lolcat
 echo -e "Password: $Pass" | lolcat
 echo -e "Port OpenSSH: 22"  | lolcat
 echo -e "Port Dropbear: 143, 456, 999"  | lolcat
-echo -e "Port SSL: 443" | lolcat
+echo -e "Port SSL: 443,444,445,446" | lolcat
 echo -e "Port OpenVPNSSL: 990" | lolcat
 echo -e "Port Squid: 80,8080 (limit to IP SSH)" | lolcat
 echo -e "Config SSL: http://$IP:81/ssl.conf" | lolcat
@@ -26,5 +26,5 @@ echo -e "badvpn: badvpn-udpgw port 7200" | lolcat
 echo -e "=============================" | lolcat
 echo -e "Expiration: $exp" | lolcat
 echo -e "=============================" | lolcat
-echo -e "Mod by Rizwan Arif Firmansyah" | lolcat
+echo -e "Mod by Zuan We Lose" | lolcat
 echo -e ""
