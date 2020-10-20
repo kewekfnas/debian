@@ -12,7 +12,7 @@ echo -e "* Fornesia" | lolcat
 echo -e "* Rzengineer" | lolcat
 echo -e "* Fawzya" | lolcat
 echo -e ""
-echo -e "Mod by Rizwan Arif Firmansyah" | lolcat
+echo -e "Mod by Zuan We Lose" | lolcat
 echo -e ""
 echo -e "   ───█▒▒░░░░░░░░░▒▒█───  " | lolcat
 echo -e "   ────█░░█░░░░░█░░█────          " | lolcat
