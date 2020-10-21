@@ -194,7 +194,7 @@ echo "/usr/sbin/nologin" >> /etc/shells
 
 # install squid
 apt-get -y install squid
-wget -O /etc/squid/squid.conf "https://raw.githubusercontent.com/nstfreenet/debian/main/edit-squid3.sh"
+wget -O /etc/squid/squid.conf "https://raw.githubusercontent.com/nstfreenet/debian/main/squid3.conf"
 sed -i $MYIP2 /etc/squid/squid.conf;
 
 # install webmin
