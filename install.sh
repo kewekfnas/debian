@@ -77,18 +77,18 @@ apt-get -y install nano iptables-persistent dnsutils screen whois ngrep unzip un
 
 echo "clear" >> .bashrc
 echo 'echo -e ""' >> .bashrc
-echo 'echo -e "   ██   ██  █████  ██████   █████  ██  " | lolcat' >> .bashrc
-echo 'echo -e "   ██  ██  ██   ██ ██   ██ ██   ██ ██          " | lolcat ' >> .bashrc
-echo 'echo -e "   █████   ███████ ██   ██ ███████ ██           " | lolcat ' >> .bashrc
-echo 'echo -e "   ██  ██   ██   ██ ██   ██ ██   ██ ██   " l lolcat ' >> .bashrc
-echo 'echo -e "   ██   ██ ██   ██ ██████  ██   ██ ███████     " | lolcat ' >> .bashrc
-echo 'echo -e " "'
-echo 'echo -e "███████  █████  ███    ███ ██ ██   ██    ██ " | lolcat ' >> .bashrc
-echo 'echo -e "██      ██   ██ ████  ████ ██ ██    ██  ██  " | lolcat ' >> .bashrc
-echo 'echo -e "█████   ███████ ██ ████ ██ ██ ██     ████   " | lolcat ' >> .bashrc
-echo 'echo -e "██      ██   ██ ██  ██  ██ ██ ██      ██    " | lolcat ' >> .bashrc
-echo 'echo -e "██      ██   ██ ██      ██ ██ ███████ ██    "' >> .bashrc
-echo 'echo -e "                                      The Big Kadall FamilyGroup™" | lolcat' >> .bashrc
+echo 'echo -e "   ----──▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───  " | lolcat' >> .bashrc
+echo 'echo -e "      ───█▒▒░░░░░░░░░▒▒█───          " | lolcat ' >> .bashrc
+echo 'echo -e "      ────█░░█░░░░░█░░█────           " | lolcat ' >> .bashrc
+echo 'echo -e "      ─▄▄──█░░░▀█▀░░░█──▄▄─   " l lolcat ' >> .bashrc
+echo 'echo -e "      █░░█─▀▄░░░░░░░▄▀─█░░█     " | lolcat ' >> .bashrc
+echo 'echo -e "      █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ " | lolcat ' >> .bashrc
+echo 'echo -e "      █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█  " | lolcat ' >> .bashrc
+echo 'echo -e "      █░░║║║╠─║─║─║║║║║╠─░░█   " | lolcat ' >> .bashrc
+echo 'echo -e "      █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█    " | lolcat ' >> .bashrc
+echo 'echo -e "      █---------------------JsT x SWJR HUNTERS------------------█    "' >> .bashrc
+echo 'echo -e "      █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█ " | lolcat ' >> .bashrc
+echo 'echo -e "                                      JSTFREENET | lolcat' >> .bashrc
 echo 'echo -e "welcome to the server $HOSTNAME" | lolcat' >> .bashrc
 echo 'echo -e "Script mod Zuan We Lose" | lolcat' >> .bashrc
 echo 'echo -e "Type menu to display a list of commands" | lolcat' >> .bashrc
