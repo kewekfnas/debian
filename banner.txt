@@ -1,5 +1,4 @@
 <b><font color="green">
-<br>────█░░█░░░░░█░░█────
 <br>─▄▄──█░░░▀█▀░░░█──▄▄─
 <br>█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
 <br>█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
@@ -10,5 +9,5 @@
 </b></font>
 <h1><font color='red'> Join Telegram : https://t.me/JSTFREENET
 </font></h1>
-<h6><font color='green'>Free SSH/VPN : jstssh.servegame.com
+<h6><font color='green'>Free SSH/VPN : jstssh.computer
 </font></h6>
