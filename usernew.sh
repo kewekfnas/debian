@@ -27,4 +27,12 @@ echo -e "=============================" | lolcat
 echo -e "Expiration: $exp" | lolcat
 echo -e "=============================" | lolcat
 echo -e "Mod by Zuan We Lose" | lolcat
+echo -e "=============================" | lolcat
+echo -e "Join us : " | lolcat
+echo -e "https://t.me/JSTFREENET" | lolcat
+echo -e "https://t.me/freedom_reborn" | lolcat
+echo -e "https://t.me/xtconfig" | lolcat
+echo -e "https://t.me/nge_gasss" | lolcat
+echo -e "https://t.me/PXGI_GRUP" | lolcat
+echo -e "https://t.me/configarea" | lolcat
 echo -e ""
