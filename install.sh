@@ -383,6 +383,14 @@ echo "Modified by Zuan We Lose"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
+echo -e "=============================" | tee -a log-install.txt
+echo -e "Join us : " | tee -a log-install.txt
+echo -e "https://t.me/JSTFREENET" | tee -a log-install.txt
+echo -e "https://t.me/freedom_reborn" | tee -a log-install.txt
+echo -e "https://t.me/xtconfig" | tee -a log-install.txt
+echo -e "https://t.me/nge_gasss" | tee -a log-install.txt
+echo -e "https://t.me/PXGI_GRUP" | tee -a log-install.txt
+echo -e "https://t.me/configarea" | tee -a log-install.txt
 echo "==========================================="  | tee -a log-install.txt
 cd
 rm -f /root/install.sh
