@@ -80,12 +80,12 @@ echo 'echo -e ""' >> .bashrc
 echo 'echo -e "      ┈┈╭━╱▔▔▔▔╲━╮┈┈┈  " | lolcat' >> .bashrc
 echo 'echo -e "      ┈┈╰╱╭▅╮╭▅╮╲╯┈┈┈          " | lolcat ' >> .bashrc
 echo 'echo -e "      ╳┈┈▏╰┈▅▅┈╯▕┈┈┈┈           " | lolcat ' >> .bashrc
-echo 'echo -e "      ┈┈┈╲┈╰━━╯┈╱┈┈╳┈   " l lolcat ' >> .bashrc
+echo 'echo -e "      ┈┈┈╲┈╰━━╯┈╱┈┈╳┈   " | lolcat ' >> .bashrc
 echo 'echo -e "      ┈┈┈╱╱▔╲╱▔╲╲┈┈┈┈     " | lolcat ' >> .bashrc
 echo 'echo -e "      ┈╭━╮▔▏┊┊▕▔╭━╮┈╳ " | lolcat ' >> .bashrc
 echo 'echo -e "      ┈┃┊┣▔╲┊┊╱▔┫┊┃┈┈  " | lolcat ' >> .bashrc
 echo 'echo -e "      ┈╰━━━━╲╱━━━━╯┈╳   " | lolcat ' >> .bashrc
-echo 'echo -e "                           JSTFREENET | lolcat' >> .bashrc
+echo 'echo -e "                   JSTFREENET " | lolcat' >> .bashrc
 echo 'echo -e "welcome to the server $HOSTNAME" | lolcat' >> .bashrc
 echo 'echo -e "Script mod Zuan We Lose" | lolcat' >> .bashrc
 echo 'echo -e "Type menu to display a list of commands" | lolcat' >> .bashrc
