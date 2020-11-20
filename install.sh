@@ -86,8 +86,8 @@ echo 'echo -e "      █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀�
 echo 'echo -e "      █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█  " | lolcat ' >> .bashrc
 echo 'echo -e "      █░░║║║╠─║─║─║║║║║╠─░░█   " | lolcat ' >> .bashrc
 echo 'echo -e "      █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█    " | lolcat ' >> .bashrc
-echo 'echo -e "      █---JsT x SWJR HUNTERS---█    "' >> .bashrc
-echo 'echo -e "      █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█ " | lolcat ' >> .bashrc
+echo 'echo -e "      █---JsT x SWJR HUNTERS---█    " | lolcat ' >> .bashrc
+echo 'echo -e "      █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  " | lolcat ' >> .bashrc
 echo 'echo -e "                                      JSTFREENET | lolcat' >> .bashrc
 echo 'echo -e "welcome to the server $HOSTNAME" | lolcat' >> .bashrc
 echo 'echo -e "Script mod Zuan We Lose" | lolcat' >> .bashrc
